@@ -1,0 +1,6 @@
+Created file - name: 2026-01-18__19-13-31_orderdata_sample.txt - path: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-13-31_orderdata_sample.txt - path copyfile: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-13-31_orderdata_sample.txt
+Created file - name: 2026-01-18__19-16-18_orderdata_sample.txt - path: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-16-18_orderdata_sample.txt - path copyfile: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-16-18_orderdata_sample.txt
+Created file - name: 2026-01-18__19-16-22_orderdata_sample_new.txt - path: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-16-22_orderdata_sample_new.txt - path copyfile: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-16-22_orderdata_sample_new.txt
+CopyError: file F:\DevOps Курс\Python\csvexamples\orderdata_sample.csv not exist
+Created file - name: 2026-01-18__19-18-15_orderdata_sample.txt - path: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-18-15_orderdata_sample.txt - path copyfile: F:\DevOps Курс\Python\csvexamples\2026-01-18__19-18-15_orderdata_sample.txt
+CopyError: file F:\DevOps Курс\Python\csvexamples\orderdata_sample.csv not exist
